@@ -1,0 +1,74 @@
+.logo
+{
+    margin-left:20px; width:300px;height:100px;
+}
+.menu
+{
+    margin-top:20px; margin-left:10px;
+}
+.btnmenu
+{
+    font-size: 1.5rem;
+}
+.p1{
+    margin-left:150px; margin-top:-80px
+}
+.div4
+{
+    margin-top:40px;
+}
+       
+.carousel-inner img {
+           
+    margin: auto;
+    min-height:100px;
+        
+}
+.p2
+{
+    color:white
+}
+.div3
+{
+    width:400px
+}
+
+.div2
+{
+    width:360px; height:390px;
+}
+
+.div1
+{
+    width:400px;height:395px;
+}
+
+#lecteur
+{
+    padding:10px;
+}
+.h1{
+    color:blue;
+}
+
+.h{
+    color:orange;
+}
+.img3
+{
+    width: 590px;height: 400;
+}
+
+.img2
+{
+    width: 898px;height: 400;
+}
+
+.img1
+{
+    width: 712px;height: 900;
+}
+.img
+{
+    width: 1050px;height: 400;
+}
